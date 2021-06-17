@@ -1,0 +1,23 @@
+.navbar {
+    background: rgba(153, 205, 50, 0.836);
+}
+.navbar a {
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+#quem-somos {
+    background-color: steelblue;
+}
+.margin{
+    padding-top: 50px; 
+}
+
+.parceiros {
+    background-color: bisque;
+    padding-bottom: 100px;
+}
+
+.bg-footer{
+    background-color: saddlebrown;
+}
